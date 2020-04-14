@@ -33,7 +33,11 @@ Come up with lots of ideas!
   - Yes and. No critism
 
 ### Idea selection
-Try and score the idea on different parameters. Come up with two parameters that is relevant for your idea. Fx impact vs time to implement
+Come up with two parameters that is relevant for your idea. That could be fx impact vs time to implement.
+
+Now draw the two parameters on a xy axis. Plot the different ideas from your brainstorming session on the graph. Use this tool to help you choose the idea! 
+
+![Choose an idea](choose-an-idea.png)
 
 ### Idea formulation
 With the idea that you selected, make an idea formulation describing the idea.

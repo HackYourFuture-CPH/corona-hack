@@ -35,11 +35,15 @@ Make a joined call with everyone from the group. You could do that just using th
 One by one introduce yourself. After that see if you can find a groupname. 
 
 ### Brainstorm
-Come up with lots of ideas!
+A brainstorm is made to come up with lots of ideas! 
+
+Here are some things you can focus on when doing the brainstorm
   - Use the 30 min but not more!
   - Write everything down. Fx in a google docs document
   - When someone if coming up with an idea there should be no critisism. Instead try and build on top of ideas others have.
     - Instead of saying no, say yes and...
+
+[More info about brainstorming](https://www.rightsourcemarketing.com/content-marketing/editorial-calendar-stress-content-brainstorm-could-spell-relief/)
 
 ### Idea selection
 Come up with two parameters that is relevant for your idea. That could be fx impact vs time to implement.
@@ -58,17 +62,25 @@ Please include both these types of descriptions
     - Who are the users?
     - What exactly should the app do?
 
+[More info](https://medium.com/@gtabidze/describe-your-idea-framework-2bfca3dc6ec9)
+
 ### Wireframes
 Using the Idea/Problem formulation to make wireframes 
   - Do it as simple as you can! Maybe pen and paper and then take pictures of it. Maybe shared whiteboard, you decide. 
+
+[More info](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/)
 
 ### User stories
 - With the wireframes make user stories for the most important functionality 
   - As a < type of user >, I want < some goal > so that < some reason >
   - As a user, I can indicate folders not to backup so that my backup drive isn't filled up with things I don't need saved.
 
+[More info](https://www.mountaingoatsoftware.com/agile/user-stories)
+
 ### MVP - Minimal Viable Product
 With the user stories make an MVP
+
+[More info](https://www.youtube.com/watch?v=joNKkWPafZs)
 
 ## Group handin
 What would be required to hand in is:

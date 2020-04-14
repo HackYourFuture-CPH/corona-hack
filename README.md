@@ -63,8 +63,8 @@ With the user stories make an MVP
 
 ## Group handin
 What would be required to hand in is:
-1. Idea/Problem formulation
-2. At least one wireframe
+1. Idea formulation
+2. At least two wireframes
 3. At least one user story
 4. Next steps
 

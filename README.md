@@ -69,6 +69,13 @@ OR should it be a 2-5 min video explaining their idea?
 
 Picking a winner, how? Do we make a panel?
 
+## Preparation
+Here are some articles/videoes you can use to prepare :ballot_box_with_check:
+https://www.rightsourcemarketing.com/content-marketing/editorial-calendar-stress-content-brainstorm-could-spell-relief/
+https://medium.com/@gtabidze/describe-your-idea-framework-2bfca3dc6ec9
+https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/
+https://www.mountaingoatsoftware.com/agile/user-stories
+https://www.youtube.com/watch?v=joNKkWPafZs
 
 Topics inspiration
 

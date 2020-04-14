@@ -2,14 +2,12 @@
 
 In this time when all our events have been closed, lets have a fun event that hopefully will make some good relations across students, classes, mentros and alumni. 
 
+The hackathon will be focused not on developing an app, but on coming up with an idea and further develop this idea. If you find time to develop something that is awesome, but it is absolutely not expected!! 
+
+The mentors and the alumni that has joined is going to be a part of the groups just like everyone else. There will be no one functioning as "mentors" in the groups, but Benjamin, Marie and Daniel will work as facilitators. That means if you have any questions reach out to us! 
+
 The normal curriculum will be pushed 1 week.
 
-## Hackathon focus
-- Empowering the participants. Everyone can make a difference
-- Hopefully improving everyones creativity/innovation skills
-- Strengthening the cross class/cross mentor/cross alumni relationship
-- Learn about something that is not code
-- Have a fun relaxed event
 
 ## Schedule
 The schedule is approximate times. It should used as a rough guide of how to progress through the day :) 
@@ -23,6 +21,8 @@ The schedule is approximate times. It should used as a rough guide of how to pro
 - **15:00 - 15:30** - [User stories](#user-stories)
 - **15:30 - 16:00** - [MVP](#mvp-minimal-viable-product)
 
+### So what is my homework? 
+The homework is to finish the [group handin](#group-handin). If you are already done with that on the Sunday, then continue working on the idea! Maybe adding user stories, improving the wireframes, implementing some functionality, its kind of up to you!
 
 ### Brainstorm
 Come up with lots of ideas!

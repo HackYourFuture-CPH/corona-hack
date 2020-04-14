@@ -1,6 +1,8 @@
 # Corona-hack 2020
 
-In this time when all our events have been closed, lets create a fun event that hopefully will make some good relations across students, classes, mentros and alumni. The normal curriculum will be pushed 1 week.
+In this time when all our events have been closed, lets have a fun event that hopefully will make some good relations across students, classes, mentros and alumni. 
+
+The normal curriculum will be pushed 1 week.
 
 ## Hackathon focus
 - Empowering the participants. Everyone can make a difference

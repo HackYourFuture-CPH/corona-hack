@@ -86,8 +86,8 @@ With the user stories make an MVP
 What would be required to hand in is:
 1. Idea formulation
 2. At least two wireframes
-3. At least one user story
-4. Next steps
+3. At least two user stories
+4. Next steps of the app
 
 Hand in everything here: https://docs.google.com/spreadsheets/d/1kY6IWEia8JMsjsMXolloxic-JukgxJHMl_Gm4KZQZHs/edit?usp=sharing
 

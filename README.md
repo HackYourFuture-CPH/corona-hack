@@ -10,9 +10,9 @@ In this time when all our events have been closed, lets create a fun event that 
 - Have a fun relaxed event
 
 ## Schedule
+The schedule is approximate times. It should used as a rough guide of how to progress through the day :) 
+
 - **12:00 - 12:15** - Introduction of team members + find a groupname 
-- Creativity warmup exercise maybe? Or would this take up too much time? Probably
-Any ideas
 - **12:15 - 13:00** - [Brainstorm](#brainstorm)
 - **13:00 - 13:30** - [Idea selection](#idea-selection)
 - **13:30 - 14:00** - [Idea formulation](#idea-formulation)

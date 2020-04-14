@@ -6,6 +6,8 @@ The hackathon will be focused not on developing an app, but on coming up with an
 
 The mentors and the alumni that has joined is going to be a part of the groups just like everyone else. There will be no one functioning as "mentors" in the groups, but Benjamin, Marie and Daniel will work as facilitators. That means if you have any questions reach out to us! 
 
+The groups can be [found here](groups.md). If someone is missing a group it is a mistake and please reach out
+
 The normal curriculum will be pushed 1 week.
 
 
@@ -62,12 +64,6 @@ What would be required to hand in is:
 3. At least one user story
 4. Next steps
 
-Homework (for the students) for that week is going to be continuing working on the project.
-
-
-OR should it be a 2-5 min video explaining their idea?
-
-Picking a winner, how? Do we make a panel?
 
 ## Preparation
 Here are some articles/videoes you can use to prepare :ballot_box_with_check:
@@ -77,5 +73,11 @@ https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/
 https://www.mountaingoatsoftware.com/agile/user-stories
 https://www.youtube.com/watch?v=joNKkWPafZs
 
-Topics inspiration
+
+## Picking a winner
+We will make a panel that will pick the best idea based on these goals
+
+- Does the idea solve a real problem
+- Is the idea clearly explained
+
 

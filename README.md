@@ -10,25 +10,48 @@ In this time when all our events have been closed, lets create a fun event that 
 - Have a fun relaxed event
 
 ## Schedule
-- Introduction of team members + find a groupname 12:00 - 12:15
+- **12:00 - 12:15** - Introduction of team members + find a groupname 
 - Creativity warmup exercise maybe? Or would this take up too much time? Probably
 Any ideas
-- Brainstorm coming up with lots of ideas 12:15-13:00
+- **12:15 - 13:00** - [Brainstorm](#brainstorm)
+- **13:00 - 13:30** - [Idea selection](#idea-selection)
+- **13:30 - 14:00** - [Idea formulation](#idea-formulation)
+- **14:00 - 14:30** - Break
+- **14:30 - 15:00** - [Wireframes](#wireframes)
+- **15:00 - 15:30** - [User stories](#user-stories)
+- **15:30 - 16:00** - [MVP](#mvp-minimal-viable-product)
+
+
+### Brainstorm
+Come up with lots of ideas!
   - Set a timer
   - Write everything down
   - Yes and. No critism
-- Choose an idea 13:00 - 13:30
-  - Try and score the idea on different parameters. Come up with two parameters that is relevant for your idea. Fx impact vs time to implement
-- With the ideas from the brainstorm make a Idea/Problem formulation 13:30 - 14:00 
+
+### Idea selection
+Try and score the idea on different parameters. Come up with two parameters that is relevant for your idea. Fx impact vs time to implement
+
+### Idea formulation
+With the idea that you selected, make an idea formulation describing the idea.
+
+Please include both these types of descriptions
   - We want to build X for Y that solves problem Z
-- Break
-- Using the Idea/Problem formulation to make wireframes 14:30 - 15:00
-  - Do it as simple as you can. Maybe pen and paper and then take pictures of it. Maybe shared whiteboard. 
-- With the wireframes make user stories for the most important functionality 15:00 - 15:30
+  - Write a short description of the idea (about 10 lines or more) that describes these things:
+    - What problem/problems are you solving?
+    - Who are the users?
+    - What exactly should the app do?
+
+### Wireframes
+Using the Idea/Problem formulation to make wireframes 
+  - Do it as simple as you can! Maybe pen and paper and then take pictures of it. Maybe shared whiteboard, you decide. 
+
+### User stories
+- With the wireframes make user stories for the most important functionality 
   - As a < type of user >, I want < some goal > so that < some reason >
   - As a user, I can indicate folders not to backup so that my backup drive isn't filled up with things I don't need saved.
-- With the user stories make an MVP
 
+### MVP - Minimal Viable Product
+With the user stories make an MVP
 
 ## Group handin
 What would be required to hand in is:

@@ -26,9 +26,6 @@ Try and use your time as well as you can. Fx while some are working on the idea 
 - **15:00 - 15:30** - [User stories](#user-stories)
 - **15:30 - 16:00** - [Getting started on a MVP](#mvp-minimal-viable-product)
 
-### So what is my homework? 
-The homework is to finish the [group handin](#group-handin). If you are already done with that on the Sunday, then continue working on the idea! Maybe adding user stories, improving the wireframes, implementing some functionality, its up to you!
-
 ### Introduction of team members
 Make a joined call with everyone from the group. You could do that just using the slack call functionality or you could set up a call in webex/zoom/whatever you as a group agree on
 
@@ -94,6 +91,9 @@ What would be required to hand in is:
 4. Next steps of the idea. If the idea should actually be made, what should be the next steps?
 
 Hand in everything here: https://docs.google.com/spreadsheets/d/1kY6IWEia8JMsjsMXolloxic-JukgxJHMl_Gm4KZQZHs/edit?usp=sharing
+
+### So what is my homework? 
+The homework is to finish the [group handin](#group-handin). If you are already done with that on the Sunday, then continue working on the idea! Maybe adding user stories, improving the wireframes, implementing some functionality, its up to you!
 
 ## Preparation
 Here are some articles/videoes you can use to prepare :ballot_box_with_check:

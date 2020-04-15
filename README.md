@@ -49,6 +49,8 @@ Now draw the two parameters on a xy axis. Plot the different ideas from your bra
 
 ![Choose an idea](choose-an-idea.png)
 
+Remember to consider the [judging criteria](#judging-criteria), if you want to win!
+
 ### Idea formulation
 With the idea that you selected, make an idea formulation describing the idea.
 
@@ -107,13 +109,15 @@ Here are some articles/videoes you can use to prepare :ballot_box_with_check:
 ## Picking a winner
 Sherry List will be responsible for the panel that will pick the best idea based on these three criteria. And **yes** there will be prices! 
 
-### Originality
+### Judging criteria
+
+#### Originality
 The project needs to create new solutions or apply existing solutions in a new, innovative way.
 
-### Feasibility
+#### Feasibility
 The project must be realistic in terms of the legal, technological and scientific aspects of the solution. It should be possible to realise the project within a few months (exceptions can be made for particularly impactful solutions with a long-term perspective).
 
-### Impact
+#### Impact
 The project should make a real difference in the struggle to save lives, communities and businesses. It should make a significant positive change for a large number of people or for groups particularly affected by the corona crisis. 
 
 

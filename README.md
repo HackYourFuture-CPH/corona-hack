@@ -93,7 +93,7 @@ What would be required to hand in is:
 Hand in everything here: https://docs.google.com/spreadsheets/d/1kY6IWEia8JMsjsMXolloxic-JukgxJHMl_Gm4KZQZHs/edit?usp=sharing
 
 ### So what is my homework? 
-The homework is to finish the [group handin](#group-handin). If you are already done with that on the Sunday, then continue working on the idea! Maybe adding user stories, improving the wireframes, implementing some functionality, its up to you!
+The homework is to finish the [group handin](#group-handin). If you are already done with that on the Sunday, then continue working on the idea! Maybe adding user stories, improving the wireframes or working on the MVP
 
 ## Preparation
 Here are some articles/videoes you can use to prepare :ballot_box_with_check:

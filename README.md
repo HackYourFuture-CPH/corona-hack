@@ -78,7 +78,11 @@ Using the Idea/Problem formulation to make wireframes
 [More info](https://www.mountaingoatsoftware.com/agile/user-stories)
 
 ### MVP - Minimal Viable Product
-With the user stories make an MVP
+With the idea formulation, wireframes and the user stories start working on your MVP. 
+
+A MVP contains **only** the most important features for the idea to work. It the absolute minimum features a product needs to be viable (useable)
+
+This is quite a large task and definitely something you can continue working on after the Sunday
 
 [More info](https://www.youtube.com/watch?v=joNKkWPafZs)
 
@@ -87,7 +91,7 @@ What would be required to hand in is:
 1. Idea formulation
 2. At least two wireframes
 3. At least two user stories
-4. Next steps of the app
+4. Next steps of the idea. If the idea should actually be made, what should be the next steps?
 
 Hand in everything here: https://docs.google.com/spreadsheets/d/1kY6IWEia8JMsjsMXolloxic-JukgxJHMl_Gm4KZQZHs/edit?usp=sharing
 

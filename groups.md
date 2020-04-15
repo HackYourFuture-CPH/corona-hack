@@ -14,6 +14,7 @@
 1. Swathi
 1. Humayun
 1. Merih
+1. Zaki
 
 ## Group 3:
 1. Daxious
@@ -21,6 +22,7 @@
 1. Afrouz
 1. Kristina
 1. Hossein
+1. Niels Schmidt
 
 ## Group 4:
 1. Anil Kumar
@@ -28,6 +30,7 @@
 1. Bengu
 1. Miroslava
 1. Ricardo
+1. Wael
 
 ## Group 5:
 1. Alagie Michael

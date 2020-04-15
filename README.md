@@ -105,7 +105,7 @@ Here are some articles/videoes you can use to prepare :ballot_box_with_check:
 
 
 ## Picking a winner
-Sherry List will be responsible for the panel that will pick the best idea based on these three criteria
+Sherry List will be responsible for the panel that will pick the best idea based on these three criteria. And **yes** there will be prices! 
 
 ### Originality
 The project needs to create new solutions or apply existing solutions in a new, innovative way.

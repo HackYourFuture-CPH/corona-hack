@@ -24,7 +24,7 @@ Try and use your time as well as you can. Fx while some are working on the idea 
 - **14:00 - 14:30** - Break
 - **14:30 - 15:00** - [Wireframes](#wireframes)
 - **15:00 - 15:30** - [User stories](#user-stories)
-- **15:30 - 16:00** - [MVP](#mvp-minimal-viable-product)
+- **15:30 - 16:00** - [Getting started on a MVP](#mvp-minimal-viable-product)
 
 ### So what is my homework? 
 The homework is to finish the [group handin](#group-handin). If you are already done with that on the Sunday, then continue working on the idea! Maybe adding user stories, improving the wireframes, implementing some functionality, its up to you!
@@ -101,9 +101,15 @@ Here are some articles/videoes you can use to prepare :ballot_box_with_check:
 
 
 ## Picking a winner
-We will make a panel that will pick the best idea based on these goals
+Sherry List will be responsible for the panel that will pick the best idea based on these three criteria
 
-- Does the idea solve a real problem
-- Is the idea clearly explained
+### Originality
+The project needs to create new solutions or apply existing solutions in a new, innovative way.
+
+### Feasibility
+The project must be realistic in terms of the legal, technological and scientific aspects of the solution. It should be possible to realise the project within a few months (exceptions can be made for particularly impactful solutions with a long-term perspective).
+
+### Impact
+The project should make a real difference in the struggle to save lives, communities and businesses. It should make a significant positive change for a large number of people or for groups particularly affected by the corona crisis. 
 
 

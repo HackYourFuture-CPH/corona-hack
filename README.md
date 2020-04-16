@@ -17,7 +17,7 @@ The schedule is approximate times. It should used as a rough guide of how to pro
 
 Try and use your time as well as you can. Fx while some are working on the idea formulation, maybe it makes sense that someone is working on the wireframes or user stories
 
-- **12:00 - 12:15** - Hackathon introduction - We will post webex link
+- **12:00 - 12:15** - Hackathon introduction - Join the call here: https://meetingsemea4.webex.com/join/cph
 - **12:15 - 12:30** - [Introduction of team members](#introduction-of-team-members) + find a groupname
 - **12:30 - 13:00** - [Brainstorm](#brainstorm)
 - **13:00 - 13:30** - [Idea selection](#idea-selection)

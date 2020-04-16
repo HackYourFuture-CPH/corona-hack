@@ -2,16 +2,15 @@
 
 In this time when all our events have been closed, lets have a fun event that hopefully will make some good relations across students, classes, mentros and alumni. 
 
-So welcome to **Corona-hack 2020** 🎉🎉🎉 We will over 4 hours work on coming up with and further developing ideas for helping with the Corona virus situation!
+So welcome to **Corona-hack 2020** 🎉🎉🎉 
 
-The hackathon will be focused not on developing an app, but on coming up with an idea and further develop this idea. If you find time to develop a website that is awesome, but it is absolutely not expected!! 
+We will **this Sunday the 19/4 from 12 - 16** work on developing ideas for helping with the Corona virus situation! The hackathon will not be focused on developing an app/web site, but more focused on on developing the idea with user stories, idea descriptions and wireframes 💪
 
 The mentors and the alumni that has joined is going to be a part of the groups just like everyone else. There will be no one functioning as "mentors" in the groups! But Benjamin, Marie and Daniel will work as facilitators. That means if you have any questions reach out to us! 
 
 The groups can be [found here](groups.md). If someone is missing a group it is a mistake and please reach out.
 
 The normal curriculum will be pushed 1 week
-
 
 ## Schedule
 The schedule is approximate times. It should used as a rough guide of how to progress through the day :) 

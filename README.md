@@ -1,8 +1,10 @@
 # Corona-hack 2020
 
-In this time when all our events have been closed, lets have a fun event that hopefully will make some good relations across students, classes, mentros and alumni
+In this time when all our events have been closed, lets have a fun event that hopefully will make some good relations across students, classes, mentros and alumni. 
 
-The hackathon will be focused not on developing an app, but on coming up with an idea and further develop this idea. If you find time to develop something that is awesome, but it is absolutely not expected!! 
+So welcome to **Corona-hack 2020** 🎉🎉🎉 We will over 4 hours work on coming up with and further developing ideas for helping with the Corona virus situation!
+
+The hackathon will be focused not on developing an app, but on coming up with an idea and further develop this idea. If you find time to develop a website that is awesome, but it is absolutely not expected!! 
 
 The mentors and the alumni that has joined is going to be a part of the groups just like everyone else. There will be no one functioning as "mentors" in the groups! But Benjamin, Marie and Daniel will work as facilitators. That means if you have any questions reach out to us! 
 

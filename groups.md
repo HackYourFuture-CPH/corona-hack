@@ -22,7 +22,7 @@
 1. Afrouz
 1. Kristina
 1. Hossein
-1. Niels Schmidt
+1. Niels Gregersen
 
 ## Group 4:
 1. Anil Kumar

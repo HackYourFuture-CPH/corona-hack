@@ -99,6 +99,7 @@ What would be required to hand in is:
 2. At least two wireframes
 3. At least two user stories
 4. Next steps of the idea. If the idea should actually be made, what should be the next steps?
+5. Link to MVP
 
 Hand in everything here: https://docs.google.com/spreadsheets/d/1kY6IWEia8JMsjsMXolloxic-JukgxJHMl_Gm4KZQZHs/edit?usp=sharing
 

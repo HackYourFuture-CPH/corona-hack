@@ -137,7 +137,7 @@ The project must be realistic in terms of the legal, technological and scientifi
 The project should make a real difference in the struggle to save lives, communities and businesses. It should make a significant positive change for a large number of people or for groups particularly affected by the corona crisis. 
 
 ### Winner announcement
-**Thursday 23/4 16:30** we will announce the winners on webex https://meetingsemea4.webex.com/join/cph
+**Thursday 23/4 19:00** we will announce the winners on webex https://meetingsemea4.webex.com/join/cph
 
 Here Sherry will talk about the submission and the winners are announced 🥇🏆
 

@@ -61,6 +61,7 @@
 1. Krithi
 1. Mamatha
 1. Braedon
+1. Jean claude
 
 ## Group 9:
 1. Ahmad
@@ -92,7 +93,6 @@
 1. Rufaida
 
 ## Group 13 - not working
-1. Jean claude
 1. M amer
 1. Nazaqat
 1. Moritz

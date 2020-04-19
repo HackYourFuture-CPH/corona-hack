@@ -75,6 +75,7 @@
 1. Tiago
 1. Amjad
 1. Ashwini
+1. Yuka
 
 ## Group 11:
 1. Nouha
@@ -90,9 +91,8 @@
 1. Nabin
 1. Rufaida
 
-## Group 13:
+## Group 13 - not working
 1. Jean claude
-1. Yuka
 1. M amer
 1. Nazaqat
 1. Moritz

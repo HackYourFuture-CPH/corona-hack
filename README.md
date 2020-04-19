@@ -94,14 +94,16 @@ For working together, there are some different options:
 
 
 ## Group handin
-What would be required to hand in is:
+These parts should be handed in
 1. Idea formulation
 2. At least two wireframes
 3. At least two user stories
 4. Next steps of the idea. If the idea should actually be made, what should be the next steps?
-5. Link to MVP
+5. Link to MVP *optional*
 
 Hand in everything here: https://docs.google.com/spreadsheets/d/1kY6IWEia8JMsjsMXolloxic-JukgxJHMl_Gm4KZQZHs/edit?usp=sharing
+
+Hand it in before **Wednesday 22/4 16:00**
 
 ### So what is my homework? 
 The homework is to finish the [group handin](#group-handin). If you are already done with that on the Sunday, then continue working on the idea! Maybe adding user stories, improving the wireframes or working on the MVP
@@ -117,6 +119,11 @@ Here are some articles/videoes you can use to prepare :ballot_box_with_check:
 
 ## Picking a winner
 Sherry List will be responsible for the panel that will pick the best idea based on these three criteria. And **yes** there will be prices! 
+
+### Judges
+- Sherry List https://twitter.com/sherrrylst
+- Floor Dress https://twitter.com/FloorDrees
+- Goran Vuksic https://twitter.com/gvuksic 
 
 ### Judging criteria
 

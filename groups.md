@@ -38,6 +38,7 @@
 1. Priyanka
 1. Gizem
 1. Kat
+1. Niels Schmidt
 
 ## Group 6:
 1. Abdullahi
@@ -45,6 +46,7 @@
 1. Magdalena
 1. Svetlana
 1. Marta
+1. Kinan
 
 ## Group 7:
 1. Maher

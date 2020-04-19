@@ -84,7 +84,14 @@ A MVP contains **only** the most important features for the idea to work. It the
 
 This is quite a large task and definitely something you can continue working on after the Sunday
 
+For working together, there are some different options:
+- Git. Creating a new branch for each feature. Merging into master
+- https://codesandbox.io supports collaboration!
+- Visual studio code live share https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack
+
 [More info](https://www.youtube.com/watch?v=joNKkWPafZs)
+
+
 
 ## Group handin
 What would be required to hand in is:
